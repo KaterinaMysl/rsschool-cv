@@ -8,7 +8,7 @@ __E-mail__: myslivchik382@gmail.com<br>
 __GitHub__: [KaterinaMysl](https://github.com/KaterinaMysl)<br>
 __Telegram__: [Katerina_382](https://t.me/Katerina_382)<br>
 __LinkedIn__: [Katsiaryna Mysliuchyk](https://www.linkedin.com/in/katsiaryna-m-89393a248/)
-
+__Discord__: KaterinaM#5426
 ---
 
 ### __About Me__
