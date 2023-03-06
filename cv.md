@@ -1,30 +1,33 @@
-Katsiaryna Mysliuchyk
+#__Katsiaryna Mysliuchyk__
 
-My Contact Info
 
-E-mail: myslivchik382@gmail.com
-GitHub: https://github.com/KaterinaMysl
-Telegram: https://t.me/Katerina_382
-Discord: KaterinaM#5426
-LinkedIn: https://www.linkedin.com/in/katsiaryna-m-89393a248/
+##__My Contact Info__
 
-About Me
+__E-mail__: myslivchik382@gmail.com
+__GitHub__: [KaterinaMysl](https://github.com/KaterinaMysl)
+__Telegram__: [Katerina_382](https://t.me/Katerina_382)
+__Discord__: KaterinaM#5426
+__LinkedIn__: [Katsiaryna Mysliuchyk](https://www.linkedin.com/in/katsiaryna-m-89393a248/
+===========)
+##__About Me__
 
-I am 26 years old. I want to change my job to a Frontend Developer. I study the relevant literature, take courses, master new technologies, improve the level of English. I believe that if you are in love with your work, your goal is achieved with great success. Engineering education and BIM technology help in better understanding of the logic and process of creating code. Drawing and photography skills allow me to better understand the aesthetic component of the desired profession, to achieve contact with the user, harmoniously applying the existing experience with color, proportions and other tools. My path is based on the principle: the accumulation of new knowledge to the existing experience will help me in the desired profession.
+I am 26 years old. I want to change my job to a __Frontend Developer__. I study the relevant literature, take courses, master new technologies, improve the level of English. I believe that if you are in love with your work, your goal is achieved with great success. _Engineering education_ and _BIM technology_ help in better understanding of the logic and process of creating code. _Drawing_ and _photography_ skills allow me to better understand the aesthetic component of the desired profession, to achieve contact with the user, harmoniously applying the existing experience with color, proportions and other tools.
 
-Skills
+ >My path is based on the principle: the accumulation of new knowledge to the existing experience will help me in the desired profession.
+============
+##__Skills__
 
-HTML
-CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
-JavaScript
-Version control: Git/GitHub
-Figma, Photoshop
-Editors: VSCode
+__HTML__
+__CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology)__
+__JavaScript__
+__Version control: Git/GitHub__
+__Figma, Photoshop__
+__Editors: VSCode__
+================
+##__Code examples__
 
-Code examples
-
-Task: Complete the solution so that it returns true if the first argument(string) passed in ends with the 2nd argument (also a string).
-
+_Task: Complete the solution so that it returns true if the first argument(string) passed in ends with the 2nd argument (also a string)._
+```
 function solution(str, ending){
 
 if ((str.slice(-ending.length) === ending) || (ending == '')) {
@@ -33,37 +36,38 @@ return true
  return false
 
 }
+```
+==========
+##__Education__
 
-Education
+__University:__ Belarusian National Technical University; Speciality: Industrial and Civil Engineering; civil-engineer
+===========
+###__Courses:__
 
-University: Belarusian National Technical University; Speciality: Industrial and Civil Engineering; civil engineer
+    *__Online school platforms:__
+        +[Stepik](https://stepik.org/catalog)
+        +[Academia IT](https://academiait.ru/) _(in progress)_
+        +[FreeCodeCamp](https://www.freecodecamp.org/learn) _(in progress)_
 
-Courses:
+    *__Online course on Youtube:__
+        +Yevhen Andrikanych [FreelancerLifeStyle](https://www.youtube.com/c/FreelancerLifeStyle?app=desktop)
+        +Yauhen Kavalchuk [webDev ](https://www.youtube.com/@YauhenKavalchuk/featured)
 
-Online school platforms:
-Stepik https://stepik.org/catalog
-Academia IT https://academiait.ru/ (in progress)
-FreeCodeCamp https://www.freecodecamp.org/learn (in progress)
+    *__RS Schools Course:__
+        +«JavaScript/Front-end. Stage 0» _(without registration and rating)_
+        +«JavaScript/Front-end. Stage 1» _(in progress)_
 
-Online course on Youtube:
-Yevhen Andrikanych https://www.youtube.com/c/FreelancerLifeStyle?app=desktop
-Yauhen Kavalchuk https://www.youtube.com/@YauhenKavalchuk/featured
+    *__Lectures and books:__
+        +[CS50 lectures](https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5) _(in progress)_
+        +[JavaScript Tutorial](https://learn.javascript.ru/) _(in progress)_
+==========
+##__Experience__
 
-RS Schools Course:
-«JavaScript/Front-end. Stage 0» (without registration and rating)
-«JavaScript/Front-end. Stage 1» (in progress)
+__Kj-Project.__ Engineer-constructor _(in progress)_
+__Freelance.__ I am creating my small projects, improving my knowledge on projects for friends 
+=========
+##__Languages__
 
-Lectures and books:
-CS50 lectures (in progress)
-JavaScript Tutorial on learnjavascript.ru (in progress)
-
-Experience
-
-Kj-Project. Engineer-constructor (in progress)
-Freelance. I am creating my small projects, improving my knowledge on projects for friends 
-
-Languages
-
-Russian: native speaker
-English: A2+
+__Russian:__ native speaker
+__English:__ A2+
 
