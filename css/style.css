@@ -1,0 +1,247 @@
+
+
+
+
+
+
+
+/*------------------------Обнуление-----------------------------------------------------------------------*/
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+ul li {
+  list-style: none;
+}
+a,
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.wrapper {
+  min-height: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+._container {
+  max-width: 1360px;
+  padding: 0px 40px;
+  margin: 0px auto;
+  box-sizing: content-box;
+}
+.title {
+	margin: 30px 0px 15px 0px;
+	color:#631d1f ;
+}
+
+.light {
+	color:#a9a0a0 ;
+}
+.medium {
+	color:#631d1f ;
+}
+.dark {
+	color:#11120f ;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 50;
+  background: #8f8a89ab;
+}
+.header__container {
+}
+
+.header__menu {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  height: 100%;
+}
+.menu {
+}
+.menu__list {
+  display: flex;
+}
+.menu__item {
+  margin: 20px 0px 20px 25px;
+  align-items: center;
+}
+.menu__link {
+}
+
+.content {
+  flex: 1 1 auto;
+}
+
+.content__personname {
+  width: 100%;
+  position: absolute;
+  margin-top: 100px;
+}
+.personname {
+}
+.personname__container {
+}
+.personname__textblock {
+}
+.textblock {
+}
+.textblock__dark {
+}
+
+.content__block {
+  display: flex;
+
+}
+.content__container {
+  
+}
+.content__column1 {
+  flex: 1 0 40%;
+ 
+  background: #11120f;
+}
+.content__column2 {
+  flex: 1 0 60%;
+  
+}
+.content__me {
+}
+.me {
+}
+.me__photo {
+	margin: 150px 0px 0px 0px;
+}
+.me__photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.me__info {
+	margin: 80px 0px 0px 0px;
+	padding: 0px 20px 0px 20px;
+}
+
+
+.content__contact {
+}
+.contact {
+	margin: 80px 0px 50px 0px;
+	padding: 0px 20px 0px 20px;
+}
+.contact__block {
+		display: flex;
+		padding: 10px 0px 10px 0px;
+}
+.contact__icon {
+}
+.contact__name {
+	padding: 0px 10px 0px 10px;
+}
+.contact__link {
+}
+
+.content__education {
+}
+.education {
+}
+.education__title {
+}
+.education__univer {
+}
+.education__courses {
+}
+
+.content__experience {
+}
+.experience {
+}
+.experience__title {
+}
+.experience__work {
+}
+.experience__name {
+}
+.experience__courses {
+}
+.content__box {
+}
+
+.content__column2 {
+}
+.content__code {
+}
+.code {
+}
+.code__title {
+}
+.code__name {
+}
+.code__text {
+}
+
+.content__skills {
+}
+.skills {
+}
+.skills__title {
+}
+.skills__name {
+}
+
+
+.footer {
+	position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  z-index: 50;
+  
+  
+}
+
+.footer__container {
+	
+}
+
+  
+
+
+.footer__box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.footer__row {
+	display: flex;
+  background: #8f8a89ab;
+  padding: 20px 90px 20px 90px;
+  
+ 
+}
+.footer__language {
+  display: flex;
+ justify-content: center;
+  align-items: center;
+}
+.footer__name {
+}
+.footer__point {
+}
