@@ -20,6 +20,7 @@ _Engineering education_ and _BIM technology_ help in better understanding of the
 
 >_My path is based on the principle: the accumulation of new knowledge to the existing experience will help me in the desired profession._
 
+
 ---
 
 ### __Skills__
