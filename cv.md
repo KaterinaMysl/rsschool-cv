@@ -9,6 +9,7 @@ __GitHub__: [KaterinaMysl](https://github.com/KaterinaMysl)<br>
 __Telegram__: [Katerina_382](https://t.me/Katerina_382)<br>
 __LinkedIn__: [Katsiaryna Mysliuchyk](https://www.linkedin.com/in/katsiaryna-m-89393a248/)<br>
 __Discord__: KaterinaM#5426
+
 ---
 
 ### __About Me__
@@ -18,6 +19,7 @@ I am 26 years old. I want to change my job to a __Frontend Developer__. I study 
 _Engineering education_ and _BIM technology_ help in better understanding of the logic and process of creating code. _Drawing_ and _photography_ skills allow me to better understand the aesthetic component of the desired profession, to achieve contact with the user, harmoniously applying the existing experience with color, proportions and other tools.<br>
 
 >_My path is based on the principle: the accumulation of new knowledge to the existing experience will help me in the desired profession._
+
 
 ---
 
@@ -88,7 +90,6 @@ __Freelance.__ I am creating my small projects, improving my knowledge on projec
 
  __Russian:__ native speaker<br>
  __English:__ A2+
-
 
 
 
