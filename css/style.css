@@ -356,7 +356,8 @@ blockquote:before {
   flex: 1 1 60%;
   padding: 0px 30px 0px 0px;
 }
-.content__column3 a:hover {
+.content__column3 a:hover,
+.content__column3 a:hover * {
   color: rgb(179, 30, 35);
 }
 .content__column4 {
@@ -381,6 +382,10 @@ blockquote:before {
 }
 .medium-title {
   padding: 20px 0px 15px 0px;
+}
+.top-list {
+  color: #752326;
+  font-weight: 600;
 }
 .education__dark {
   font-weight: 400;
