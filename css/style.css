@@ -49,7 +49,7 @@ body {
   color: #cdcdb8;
   font-size: 22px;
   text-transform: uppercase;
-padding-bottom: 70px;  
+  padding-bottom: 70px;
 }
 .light {
   color: #cdcdb8;
@@ -140,24 +140,50 @@ padding-bottom: 70px;
   letter-spacing: 4px;
 }
 @media screen and (max-width: 1150px) {
-  .content__personname {
-  }
   .personname__textblock {
+    /* position: absolute; */
+    margin: 0 auto;
+    /* width: 1400px; */
+    text-align: center;
+    left: 55%;
+  }
+  .personname__textblock,
+  .personname__textblock .light,
+  .personname__textblock .dark {
     position: absolute;
+    top: 55px;
+    font-size: 24px;
+    color: #cdcdb8;
+    z-index: 10;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+
+  .personname__textblock .light {
+    min-width: 180px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .personname__textblock {
+    left: 60%;
+  }
+}
+@media screen and (max-width: 400px) {
+  .personname__textblock {
     left: 65%;
   }
   .personname__textblock,
   .personname__textblock .light,
   .personname__textblock .dark {
-    top: 70px;
-    font-size: 24px;
-    color: #cdcdb8;
-    z-index: 70;
+    font-size: 22px;
+    top: 65px;
   }
-  .personname__light {
-    min-width: 220px;
+  .personname__textblock .light {
+    min-width: 165px;
   }
 }
+
 .content__block {
   display: flex;
   height: 100%;
@@ -224,7 +250,7 @@ padding-bottom: 70px;
   flex: 1 1 auto;
 }
 .me__photo {
-  margin: 230px -40px 0px -40px;
+  margin: 190px -40px 0px -40px;
   position: relative;
   padding-bottom: 130%;
 }
@@ -251,6 +277,22 @@ padding-bottom: 70px;
   .me__info p {
     padding: 10px 0px 30px 0px;
     z-index: 70;
+  }
+  .me__photo {
+    display: flex;
+
+    margin: 0px auto;
+    margin-top: 190px;
+    height: 300px;
+    width: 200px;
+    position: relative;
+    padding-bottom: 10px;
+  }
+  .me__photo img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    object-fit: cover;
   }
 }
 blockquote {
@@ -351,6 +393,18 @@ blockquote:before {
   .content__skills {
     margin: 0px 0px 0px -30px;
   }
+  .contact__link {
+    letter-spacing: 1px;
+  }
+  .contact__link img {
+    width: 35px;
+    padding: 0px 10px 0px 0px;
+    justify-content: center;
+    align-items: center;
+  }
+  .title {
+    letter-spacing: 5px;
+  }
 }
 .content__column3 {
   flex: 1 1 60%;
@@ -406,12 +460,12 @@ blockquote:before {
   font-size: 22px;
 }
 @media screen and (max-width: 1150px) {
-  .skills__name ul{
+  .skills__name ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
   }
-  .skills__name ul li{
+  .skills__name ul li {
     background-size: 15px;
     padding: 5px 29px 5px 22px;
   }
@@ -488,12 +542,12 @@ blockquote:before {
   justify-content: space-between;
   padding: 15px 0px 0px 0px;
 }
-.projects__item-git{
+.projects__item-git {
   display: flex;
   align-items: center;
   padding: 0px 3px 0px 3px;
 }
-.projects__item-git img{
+.projects__item-git img {
   width: 27px;
 }
 .projects__item-instrument {
@@ -509,8 +563,6 @@ blockquote:before {
   /* width: 45px; */
   height: 15px;
   padding: 0px 3px 0px 3px;
-  
-
 }
 .footer {
   position: absolute;
@@ -518,6 +570,7 @@ blockquote:before {
   left: 0px;
   width: 100%;
   z-index: 50;
+
 }
 .footer__box {
   display: flex;
@@ -548,6 +601,7 @@ blockquote:before {
     flex-wrap: wrap;
     align-content: flex-start;
     padding: 0px 15px 0px 15px;
+    font-size: 15px;
   }
   .footer__box {
     display: flex;
