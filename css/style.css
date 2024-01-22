@@ -394,6 +394,9 @@ blockquote:before {
 .content__skills {
   padding: 0px 0px 0px 50px;
 }
+.rs li {
+  margin-top: 7px;
+}
 .skills ul li {
   padding: 6px 0 6px 50px;
   background-image: url(../img/circle.png);
@@ -414,7 +417,7 @@ blockquote:before {
   }
 }
 .content__projects {
-  padding: 0px 0px 130px 0px;
+  padding: 0px 0px 150px 0px;
 }
 
 /* .content__code {
